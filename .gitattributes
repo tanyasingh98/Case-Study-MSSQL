@@ -1,2 +1,2 @@
 * text=auto
-*.sql linguist-detectable=true
+*.tsql linguist-detectable=true
